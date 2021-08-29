@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LGMtask2-ReactApp/static/css/main.275f81ab.chunk.css",
+    "main.js": "/LGMtask2-ReactApp/static/js/main.4dc3f874.chunk.js",
+    "main.js.map": "/LGMtask2-ReactApp/static/js/main.4dc3f874.chunk.js.map",
+    "runtime-main.js": "/LGMtask2-ReactApp/static/js/runtime-main.ba2bd756.js",
+    "runtime-main.js.map": "/LGMtask2-ReactApp/static/js/runtime-main.ba2bd756.js.map",
+    "static/css/2.818011ed.chunk.css": "/LGMtask2-ReactApp/static/css/2.818011ed.chunk.css",
+    "static/js/2.2db83ebe.chunk.js": "/LGMtask2-ReactApp/static/js/2.2db83ebe.chunk.js",
+    "static/js/2.2db83ebe.chunk.js.map": "/LGMtask2-ReactApp/static/js/2.2db83ebe.chunk.js.map",
+    "index.html": "/LGMtask2-ReactApp/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/LGMtask2-ReactApp/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.275f81ab.chunk.css.map": "/LGMtask2-ReactApp/static/css/main.275f81ab.chunk.css.map",
+    "static/js/2.2db83ebe.chunk.js.LICENSE.txt": "/LGMtask2-ReactApp/static/js/2.2db83ebe.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/LGMtask2-ReactApp/static/media/back-img.170ce33e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba2bd756.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.2db83ebe.chunk.js",
+    "static/css/main.275f81ab.chunk.css",
+    "static/js/main.4dc3f874.chunk.js"
+  ]
+}
